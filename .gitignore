@@ -1,0 +1,18 @@
+# Data files
+*.csv
+*.parquet
+*.zip
+
+# Models
+*.pkl
+*.joblib
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac junk
+.DS_Store
