@@ -12,13 +12,15 @@ This project implements an anomaly detection pipeline to identify outliers in st
 - Jupyter
 
 ## Project Structure
+
+```bash
 anomaly-detection/
 ├── notebooks/
 │   └── anomaly-detection.ipynb
 ├── results/
 │   ├── confusion_matrix.png
-│   ├── metrics.md
-│   └── pr_curve.png
+│   ├── pr_curve.png
+│   └── metrics.md
 ├── README.md
 ├── requirements.txt
 └── .gitignore
